@@ -174,7 +174,7 @@ header {
 .logo a {
 	font-family: 'Ubuntu Condensed', sans-serif;
 	font-size: 50px;
-    color: #ff4c4c;
+    color: #27f0a3;
 	text-decoration:none;
 }
 .logo a span {
@@ -211,7 +211,7 @@ header {
     height: 42px;
     outline: none;
     box-shadow: none;
-    background: #ff4c4c;
+    background: #820dc5;
     padding: 0;
     border-radius: inherit;
     -webkit-appearance: none;
@@ -1958,7 +1958,7 @@ span.price:after {
 }
 h4.footer-head {
     font-size: 28px;
-    color: #ff4c4c;
+    color: #b1d31a;
     margin-bottom: 16px;
 }
 .wthree-footer-grid p {
